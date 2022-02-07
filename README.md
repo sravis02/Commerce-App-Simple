@@ -14,6 +14,7 @@ Since i created this project in a short time period (4 days), some features are 
  - Create virual environment: `python -m venv .venv`
  - Activate it: `.venv\Scripts\activate.bat`(windows) `source .venv/bin/activate`(mac)
  - Install dependencies: `pip install -r requirements.txt`
+ - Insert your Stripe apikeys (public & secret) in products/constants.py 
  - Make migrations `python manage.py makemigrations`
  - Migrate `python manage.py migrate`
  - Run server `python manage.p runserver 192.168.0.108:8000`
