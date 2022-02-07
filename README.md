@@ -1,7 +1,7 @@
 # Simple-Commerce-App
 ## General
 I created this simple app to practice several frontend and backend technologies.
-Since i created this project in a short time period (4 days), some features are not implemented (for example adress input on checkout).
+Since i developed this project in a short time period (4 days), some features are not implemented (for example adress input on checkout).
 
 ## App Walktrough
 [![Video Walktrough](https://img.youtube.com/vi/rO790es4eQw/0.jpg)](https://www.youtube.com/watch?v=rO790es4eQw "Video Walktrough")
