@@ -23,6 +23,7 @@ Since i created this project in a short time period (4 days), some features are 
 ### Mobile App
 Method 1)
  - Open App with Expo Go by visiting [this link](https://expo.dev/@lucaso/commerce-app-simple).
+
 Method 2)
  - Navigate into backend-folder `cd mobile-app` (from root directory)
  - Install packages `yarn install`
